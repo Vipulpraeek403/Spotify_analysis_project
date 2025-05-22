@@ -1,4 +1,4 @@
-# Spotify Analysis Project with Query Optmimisation
+# Spotify Analysis Project with Query Optimisation
 
 ![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
 
