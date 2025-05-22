@@ -181,7 +181,7 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 
 
 
-Here’s an updated section for the **Spotify Analysis Project with Query Optimization** README, focusing on the query optimization performed. 
+Here’s an updated section for the **Spotify Analysis Project with Query Optimization** focusing on the query optimization performed. 
 ---
 
 ## Query Optimization Technique 
